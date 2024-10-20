@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.truecallersdk.truecaller_sdk-merged_res-29:/animator/fragment_open_exit.xml",
+        "source": "com.truecallersdk.truecaller_sdk-fragment-1.7.1-14:/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "com.truecallersdk.truecaller_sdk-merged_res-29:/animator/fragment_close_enter.xml",
+        "source": "com.truecallersdk.truecaller_sdk-fragment-1.7.1-14:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "com.truecallersdk.truecaller_sdk-merged_res-29:/animator/fragment_open_enter.xml",
+        "source": "com.truecallersdk.truecaller_sdk-fragment-1.7.1-14:/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "com.truecallersdk.truecaller_sdk-merged_res-29:/animator/fragment_close_exit.xml",
+        "source": "com.truecallersdk.truecaller_sdk-fragment-1.7.1-14:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "com.truecallersdk.truecaller_sdk-merged_res-29:/animator/fragment_fade_enter.xml",
+        "source": "com.truecallersdk.truecaller_sdk-fragment-1.7.1-14:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "com.truecallersdk.truecaller_sdk-merged_res-29:/animator/fragment_fade_exit.xml",
+        "source": "com.truecallersdk.truecaller_sdk-fragment-1.7.1-14:/animator/fragment_fade_exit.xml"
+    }
+]

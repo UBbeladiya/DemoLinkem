@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Value from default config. -->
+    <string name="sdk_variant" translatable="false">flutter</string>
+    <!-- Value from default config. -->
+    <string name="sdk_variant_version" translatable="false">0.1.2</string>
+
+</resources>

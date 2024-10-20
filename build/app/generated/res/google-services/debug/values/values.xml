@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">918523071386-oomc40082urg77d8k2tu1f16djvf6fm6.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">918523071386</string>
+    <string name="google_api_key" translatable="false">AIzaSyDm3h7JaZZJGj3pzx_S_U9BxTKQSJWOi4Y</string>
+    <string name="google_app_id" translatable="false">1:918523071386:android:fadca7f63e77c4dc514823</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDm3h7JaZZJGj3pzx_S_U9BxTKQSJWOi4Y</string>
+    <string name="google_storage_bucket" translatable="false">edulink-3bf5a.appspot.com</string>
+    <string name="project_id" translatable="false">edulink-3bf5a</string>
+</resources>

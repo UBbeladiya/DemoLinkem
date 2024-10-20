@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.truecallersdk.truecaller_sdk-merged_res-29:/layout/truesdk_privacy_policy_dialog.xml",
+        "source": "com.truecallersdk.truecaller_sdk-jetified-truecaller-sdk-2.7.0-11:/layout/truesdk_privacy_policy_dialog.xml"
+    },
+    {
+        "merged": "com.truecallersdk.truecaller_sdk-merged_res-29:/layout/ime_base_split_test_activity.xml",
+        "source": "com.truecallersdk.truecaller_sdk-core-1.13.1-22:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "com.truecallersdk.truecaller_sdk-merged_res-29:/layout/custom_dialog.xml",
+        "source": "com.truecallersdk.truecaller_sdk-core-1.13.1-22:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.truecallersdk.truecaller_sdk-merged_res-29:/layout/notification_template_part_time.xml",
+        "source": "com.truecallersdk.truecaller_sdk-core-1.13.1-22:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.truecallersdk.truecaller_sdk-merged_res-29:/layout/ime_secondary_split_test_activity.xml",
+        "source": "com.truecallersdk.truecaller_sdk-core-1.13.1-22:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "com.truecallersdk.truecaller_sdk-merged_res-29:/layout/notification_template_part_chronometer.xml",
+        "source": "com.truecallersdk.truecaller_sdk-core-1.13.1-22:/layout/notification_template_part_chronometer.xml"
+    }
+]

@@ -1,0 +1,4 @@
+R_DEF: Internal format may change without notice
+local
+string sdk_variant
+string sdk_variant_version
